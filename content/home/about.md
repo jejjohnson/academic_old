@@ -12,31 +12,38 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
+    "Machine Learning",
     "Computational Linguistics",
     "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS in Applied and Computational Mathematics"
+  institution = "Rochester Institute of Technology"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BS in Mathematical Sciences"
+  institution = "Florida Institute of Technology"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BS in Oceanography"
+  institution = "Florida Institute of Technology"
+  year = 2013
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Juan Emmanuel Johnson is current a PhD candidate at the university of Valencia.
+He is currently working on using kernel methods and dependence estimation with
+applications in remote sensing for Earth applications. He has experience in using
+semisupervised kernel methods for dimensionality reduction of hyperspectral
+images. He has aspirations to incorporate advanced machine learning methods into
+the oceanographic community and being a community advocate for open source and
+open science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In his free time, he enjoys learning Spanish, dancing and good company
+solving the societal problems of the world.
