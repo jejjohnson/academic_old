@@ -13,8 +13,10 @@ weight = 5
 [interests]
   interests = [
     "Machine Learning",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Kernel Methods",
+    "Semisupervised Learning",
+    "Remote Sensing",
+    "Earth Science"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,8 +39,8 @@ weight = 5
 
 # Biography
 
-Juan Emmanuel Johnson is current a PhD candidate at the university of Valencia.
-He is currently working on using kernel methods and dependence estimation with
+Juan Emmanuel Johnson is currently a PhD candidate at the university of Valencia.
+Right now, he working on using kernel methods and dependence estimation with
 applications in remote sensing for Earth applications. He has experience in using
 semisupervised kernel methods for dimensionality reduction of hyperspectral
 images. He has aspirations to incorporate advanced machine learning methods into
