@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/tags/academic/</loc>
+      <loc>https://jejjohnson.github.io/academic/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/talk/example-talk/</loc>
+      <loc>https://jejjohnson.github.io/academic/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/publication/</loc>
+      <loc>https://jejjohnson.github.io/academic/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/talk/</loc>
+      <loc>https://jejjohnson.github.io/academic/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/post/</loc>
+      <loc>https://jejjohnson.github.io/academic/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/project/deep-learning/</loc>
+      <loc>https://jejjohnson.github.io/academic/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/project/example-external-project/</loc>
+      <loc>https://jejjohnson.github.io/academic/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/post/getting-started/</loc>
+      <loc>https://jejjohnson.github.io/academic/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00+02:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/post/widgets/</loc>
+      <loc>https://jejjohnson.github.io/academic/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00+02:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/post/managing-content/</loc>
+      <loc>https://jejjohnson.github.io/academic/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00+02:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/post/writing-markdown-latex/</loc>
+      <loc>https://jejjohnson.github.io/academic/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00+02:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/publication/person-re-identification/</loc>
+      <loc>https://jejjohnson.github.io/academic/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +113,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/post/migrate-from-jekyll/</loc>
+      <loc>https://jejjohnson.github.io/academic/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+01:00</lastmod>
     </url>
     
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/publication/clothing-search/</loc>
+      <loc>https://jejjohnson.github.io/academic/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -131,7 +131,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/publication_types/1/</loc>
+      <loc>https://jejjohnson.github.io/academic/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -141,7 +141,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/publication_types/2/</loc>
+      <loc>https://jejjohnson.github.io/academic/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -151,7 +151,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/categories/</loc>
+      <loc>https://jejjohnson.github.io/academic/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -160,7 +160,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/tags/deep-learning/</loc>
+      <loc>https://jejjohnson.github.io/academic/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -170,7 +170,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/tags/demo/</loc>
+      <loc>https://jejjohnson.github.io/academic/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -180,7 +180,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/</loc>
+      <loc>https://jejjohnson.github.io/academic/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -190,7 +190,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/tags/hugo/</loc>
+      <loc>https://jejjohnson.github.io/academic/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -200,7 +200,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/tags/jekyll/</loc>
+      <loc>https://jejjohnson.github.io/academic/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -210,7 +210,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/project/</loc>
+      <loc>https://jejjohnson.github.io/academic/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -220,7 +220,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/publication_types/</loc>
+      <loc>https://jejjohnson.github.io/academic/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -230,7 +230,7 @@
     
     <url>
     
-      <loc>https://jejjohnson.github.io/website_academic/tags/</loc>
+      <loc>https://jejjohnson.github.io/academic/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
